@@ -1,1 +1,1 @@
-# MarchingCubes
+# Marching Squares
